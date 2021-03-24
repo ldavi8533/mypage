@@ -97,3 +97,13 @@
     padding-top: 30px;
     transition: 0.5s;
 }
+
+.social i {
+    transition: 0.5s all;
+
+}
+
+/* icon animation */
+.social i:hover{
+    transform: scale(1.2)rotate(-24deg);
+}
