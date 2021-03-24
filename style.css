@@ -85,3 +85,15 @@
     margin-top: 10px;
 
 }
+
+/* stylization of icons */
+.social a {
+    text-decoration: none;
+}
+
+.social i {
+    color: #C0C0C0;
+    padding-left: 30px;
+    padding-top: 30px;
+    transition: 0.5s;
+}
